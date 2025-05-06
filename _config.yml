@@ -1,0 +1,8 @@
+# _config.yml
+title: My Second Site
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
+
+# Optional: GitHub Pages settings
+plugins:
+  - jekyll-remote-theme
