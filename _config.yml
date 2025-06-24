@@ -50,8 +50,6 @@ enable_copy_code_button: true
 heading_anchors: true
 
 aux_links:
-  "View source on GitHub":
-    - "https://github.com/wowashuwow/case-study-academy"
 aux_links_new_tab: true
 
 nav_enabled: true
@@ -66,7 +64,7 @@ footer_content: 'Copyright &copy; 2024 Case Study Academy.'
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y"
 
-gh_edit_link: true
+gh_edit_link: false
 gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_repository: "https://github.com/wowashuwow/case-study-academy"
 gh_edit_branch: "main"
