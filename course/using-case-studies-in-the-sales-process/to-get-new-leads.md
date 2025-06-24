@@ -12,6 +12,6 @@ nav_order: 2
 
 ## Use them in your tofu marketing campaign
 
-### SEO-Optimize as much as possible
+## SEO-Optimize as much as possible
 
 ## Organize your case study library
