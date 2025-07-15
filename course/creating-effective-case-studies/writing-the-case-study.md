@@ -18,15 +18,15 @@ nav_order: 2
 
 ### Introduce the client
 
-Introduce the client and describe the problem the client had been facing.  
+Give a brief introduction about the client.  
 
-### State the overarching narrative
+### State the problem
 
 Identify the one business problem that drove the client to seek help - WordPress VIP does this well in their [ADWEEK case study](https://arc.net/l/quote/iptwohjc). - "our CMS couldn't handle Super Bowl traffic last year, we want to make sure that doesn't happen again." 
 
 The devil is in the details - *why* exactly did the client come to you? What made them take that step? When you clearly pinpoint their pain point like that, it makes the story sound more personal, genuine, and relatable.
 
-What you're doing here is you're establishing one overarching narrative for the case study - it can be "WordPress is better-suited for publishing than X CMS," or "Partnering with a web dev agency can help you win journalism awards."
+Along with the heading and the description, by now you should have established the overarching narrative of the case study, so the reader has a clear idea of what the story's gonna be about. The narrative can be "Migrating to WordPress VIP means you can stop worrying about uptime and start focusing on content," or "[WordPress is much faster and cost-effective than AEM for publishers](https://rtcamp.com/case-studies/aem-to-wordpress-migration-for-manheim/)."
 
 ## The solution section
 

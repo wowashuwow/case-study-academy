@@ -6,7 +6,7 @@ nav_order: 1
 
 # How to use case studies in the sales process
 
-There are so many opportunities in the sales process where you can make use of case studies to drive prospects closer to the finish line.
+There are so many opportunities in the sales process where you can use case studies to drive prospects closer to the finish line.
 
 ## During initial conversations
 
@@ -48,7 +48,7 @@ Response: "Take a look at this case study. We included total knowledge transfer 
 
 ## In the proposal
 
-The proposal is a good place to let prospects know one more time (this time in writing) that they don't have to worry about their objections.
+The proposal is a good place to reassure prospects (this time in writing) that they don't have to worry about their objections.
 
 Use case studies in your proposals. Don't just "attach" them, integrate them throughout.
 

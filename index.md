@@ -6,10 +6,10 @@ description: "A course about case studies for web dev agencies"
 permalink: /
 ---
 
-# Learn how to close deals faster, get new leads, and reduce pain using case studies.
+# The flagship case study course for WordPress agencies
 {: .fs-9 }
 
-A short, sweet, and complete course.
+Learn how to close deals faster, get new leads, and reduce pain using case studies.
 {: .fs-6 .fw-300 }
 
 [Take the course]({% link course/index.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -19,7 +19,7 @@ A short, sweet, and complete course.
 
 ## Hi there! 👋
 
-If you're a web dev agency that hasn't tried case studies yet but is curious about them, this course is for you. I'll help you answer questions like:
+If you're a WordPress agency that hasn't tried case studies yet but is curious about them, this course is for you. In this short, sweet, and complete course, I'll help you answer questions like:
 
 1. Should *we* invest in case studies?
 2. How do we get client approval? And what do we need to produce a case study?
