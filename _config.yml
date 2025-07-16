@@ -1,6 +1,6 @@
 # Site settings
 title: Case Study Academy
-description: A course on creating and using case studies to win more projects faster, for web dev agencies.
+description: A course on creating and using case studies to win more projects faster, for WordPress agencies.
 baseurl: "" # e.g. /docs if your site is hosted under a subpath
 url: "https://casestudyacademy.com" # update to your custom domain or GitHub Pages URL
 repository: wowashuwow/case-study-academy # GitHub repo, used for edit links and metadata

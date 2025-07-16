@@ -2,7 +2,7 @@
 title: Start here
 layout: home
 nav_order: 1
-description: "A course about case studies for web dev agencies"
+description: "The flagship case study course for WordPress agencies"
 permalink: /
 ---
 
