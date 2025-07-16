@@ -41,3 +41,7 @@ You can do this by sprinkling industry-specific keywords (e.g., "healthcare webs
 Prospects often search for solutions to specific problems like the above and it would be nice for your case studies to appear when they do.
 
 Most B2B SaaS people are now using [Perplexity](https://www.perplexity.ai/) or [ChatGPT](https://chatgpt.com/) for search, but optimizing for the Google bot isn't defunct yet.
+
+## Create a case study library
+
+Create a filterable library so prospects can easily find the story they want to relate to. Most agencies organize case studies by industry vertical (healthcare, finance, ecommerce, etc.) and the solutions they provide (CMS migration, UX, etc.). Two other great ways are to organize by primary challenge (performance, security, etc.) and company size (startup, mid-market, enterprise).
