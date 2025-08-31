@@ -1,6 +1,6 @@
 ---
 title: Summary
-parent: Create good case studies
+parent: Write effective case studies
 nav_order: 4
 ---
 

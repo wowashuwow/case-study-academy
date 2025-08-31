@@ -1,6 +1,6 @@
 ---
 title: How do we get client approval?
-parent: Set up SOPs (Standard Operating Procedures)
+parent: Get client approval and set up SOPs
 nav_order: 1
 ---
 

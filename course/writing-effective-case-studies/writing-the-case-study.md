@@ -1,6 +1,6 @@
 ---
 title: Writing the case study
-parent: Create good case studies
+parent: Write effective case studies
 nav_order: 2
 ---
 

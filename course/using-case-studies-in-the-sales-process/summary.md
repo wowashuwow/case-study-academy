@@ -6,9 +6,7 @@ nav_order: 3
 
 # Summary
 
-Big clients come because of expertise
-More than case studies your pitch, your approach,
-When you package it with related material that's when they really help.
+Big clients come because of expertise. Your pitch and your approach matters more than case studies. When you package case studies with related material that's when they really help.
 
 To quote Shane Parrish from a recent newsletter: Truth trumps narrative.
 

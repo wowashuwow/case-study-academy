@@ -1,6 +1,6 @@
 ---
 title: Collecting case study material
-parent: Set up SOPs (Standard Operating Procedures)
+parent: Get client approval and set up SOPs
 nav_order: 2
 ---
 

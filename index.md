@@ -2,11 +2,11 @@
 title: Start here
 layout: home
 nav_order: 1
-description: "The flagship case study course for WordPress agencies"
+description: "The case study course for WordPress agencies"
 permalink: /
 ---
 
-# The flagship case study course for WordPress agencies
+# *The* case study course for WordPress agencies
 {: .fs-9 }
 
 Learn how to close deals faster, get new leads, and reduce pain using case studies.
@@ -21,7 +21,8 @@ Learn how to close deals faster, get new leads, and reduce pain using case studi
 
 If you're a WordPress agency that hasn't tried case studies yet but is curious about them, this course is for you. In this short, sweet, and complete course, I'll help you answer questions like:
 
-1. Should *we* invest in case studies?
-2. How do we get client approval? And what do we need to produce a case study?
-3. How to write a good case study?
-4. How to use case studies in the sales process?
+1. [Should *we* invest in case studies?](/course/should-you-invest-in-case-studies/)
+2. [Where do we even... begin?](/course/getting-client-approval-and-setting-up-sops-for-success/)
+3. [How to write an effective case study?](/course/writing-effective-case-studies/)
+4. [How to use case studies in the sales process?](/course/using-case-studies-in-the-sales-process/) 
+

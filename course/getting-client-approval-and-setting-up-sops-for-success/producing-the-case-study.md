@@ -1,12 +1,12 @@
 ---
 title: Producing the case study
-parent: Set up SOPs (Standard Operating Procedures)
+parent: Get client approval and set up SOPs
 nav_order: 3
 ---
 
 # Producing the case study
 
-Here's a hot take: it's ideal to start working on the case study *during* the project.
+It's ideal to start working on the case study *during* the project.
 
 
 PMs should keep a "for case study" doc and jot down things as they happen over the course of the project. This is because they can forget things once the project is complete. Once the project is complete, they can simply share those pointers with Marketing so they can come up with a first draft as fast as possible.

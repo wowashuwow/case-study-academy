@@ -1,6 +1,6 @@
 ---
 title: Tips for writers
-parent: Create good case studies
+parent: Write effective case studies
 nav_order: 3
 ---
 
